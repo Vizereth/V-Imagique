@@ -1,10 +1,8 @@
-# React app for sharing images - Impertio
-
-## This repository is for viewing purposes only
-## Don't try to clone and run on local server
+# Imagique
+## React app for uploading and sharing images
 
 ## Deploy
 
-https://impertio.netlify.app/
+https://v-imagique.netlify.app/
 
-
+**Note:** This repository is for viewing purposes only. Please do not attempt to clone and run it on a local server.
