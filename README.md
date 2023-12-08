@@ -1,4 +1,4 @@
-# React app for uploading and sharing images - Imagique
+# React app for uploading/sharing images - Imagique
 
 ## Deploy
 
