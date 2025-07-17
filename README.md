@@ -4,4 +4,4 @@
 
 https://v-imagique.netlify.app/
 
-**Note:** This repository is for viewing purposes only. Please do not attempt to clone and run it on a local server.
+**Note:** This repository is for viewing purposes only.
